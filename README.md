@@ -5,6 +5,11 @@ The circuit diagram is created using circuit.io platform.
 
 ![image](https://user-images.githubusercontent.com/41417732/129027319-88255859-8b85-454d-a749-ba04154438e6.png)
 
+The actual circuit connection in Breadboard using sensors and Node MCU.
+
+![image](https://user-images.githubusercontent.com/41417732/129028941-c585acce-5aee-4f7c-b18f-8cfa1a296e0e.png)
+
+
 The main idea of this project is to monitor the physical parameters around the fire-fighter in hazardous situations , the whole project is supposed to be mounted on the helmet of the individual. The parameters needed to be monitored are temperature, humidity, air condition i.e. levels of toxic and inflammable gases in the atmosphere nearby including the
 atmospheric pressure of the area.
 
