@@ -19,5 +19,4 @@ message to call for help and the web interface will be monitored by someone from
 help from outside.
 
 ![image](https://user-images.githubusercontent.com/41417732/129029259-57b233f2-4c34-4e97-9ff1-f3626d5b54f8.png)
-
 ![image](https://user-images.githubusercontent.com/41417732/129029304-1d864dc1-b54d-4261-9e14-af2a05e76587.png)
