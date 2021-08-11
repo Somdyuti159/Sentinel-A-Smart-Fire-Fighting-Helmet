@@ -17,3 +17,6 @@ atmospheric pressure of the area.
 There will be two interfaces of the project a mobile application and a web interface . The mobile application which will report any abrupt change and will be used to send SOS
 message to call for help and the web interface will be monitored by someone from outside so just in case if anything goes wrong or in case of abrupt parameter change, one can send
 help from outside.
+
+![image](https://user-images.githubusercontent.com/41417732/129029259-57b233f2-4c34-4e97-9ff1-f3626d5b54f8.png)
+![image](https://user-images.githubusercontent.com/41417732/129029304-1d864dc1-b54d-4261-9e14-af2a05e76587.png)
